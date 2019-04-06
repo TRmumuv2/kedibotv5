@@ -1,0 +1,1 @@
+[null,{"name":"NewEvent","temp":"member","event-type":"6","_id":"GwcUR","actions":[{"channel":"4","varName":"","message":"${tempVars(\"member\")}  Sunucumuza Hoşgeldin 😊  ","storage":"0","varName2":"","iffalse":"0","iffalseVal":"","name":"Send Message"}]}]
